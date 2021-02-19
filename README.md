@@ -1,2 +1,2 @@
 # C-Plus-Plus-Learning
-Basic implementations of C++ program for revision
+Basic implementations of C++ program for revision.
